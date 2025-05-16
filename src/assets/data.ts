@@ -25,8 +25,8 @@ export const projectsData: ProjectDTO[] = [
       " A simple pig game built with vanilla JavaScript, HTML, and CSS.",
     image: "/images/pig-game.png",
     tags: ["HTML", "JavaScript (JS)", "CSS"],
-    liveUrl: "https://ralpmike.github.io/Raphael-Michael-portfolio/",
-    githubUrl: "https://github.com/Ralpmike/Raphael-Michael-portfolio.git",
+    liveUrl: "https://ralpmike.github.io/pig-game/",
+    githubUrl: "https://github.com/Ralpmike/pig-game.git",
   },
   {
     title: "Weather Dashboard",
