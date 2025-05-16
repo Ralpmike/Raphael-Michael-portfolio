@@ -20,13 +20,13 @@ export const projectsData: ProjectDTO[] = [
     githubUrl: "https://github.com/Ralpmike/product-list-with-cart.git",
   },
   {
-    title: "Portfolio Website",
+    title: "Pig Game",
     description:
-      "A responsive portfolio website showcasing projects and skills with a modern design.",
+      " A simple pig game built with vanilla JavaScript, HTML, and CSS.",
     image: "/placeholder.svg?height=300&width=600",
-    tags: ["Next.js", "Framer Motion", "Tailwind CSS", "TypeScript"],
-    liveUrl: "#",
-    githubUrl: "#",
+    tags: ["HTML", "JavaScript (JS)", "CSS"],
+    liveUrl: "",
+    githubUrl: "https://github.com/Ralpmike/Raphael-Michael-portfolio.git",
   },
   {
     title: "Weather Dashboard",
